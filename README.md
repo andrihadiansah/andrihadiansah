@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andrihadiansah
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning basic frontend: html css javascript
-- 💞️ I’m looking to collaborate on "?"
+- 🌱 I’m currently learning front-end
+- 🤝 I’m looking for friends sharing
 - 📫 How to reach me DM on instagram
 
 <!---
