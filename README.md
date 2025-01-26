@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 
 - **Languages:** JavaScript & TypeScript, Mdx (Content)
 - **Styling:** TailwindCSS with shadcn/ui
-- **Frameworks:** React, Next.js
+- **Frameworks:** React, Next.js, Turborepo
 - **Tools:** Git, VSCode, WebStrom, Figma
 - **Databases:** --
 
